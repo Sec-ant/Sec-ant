@@ -1,1 +1,3 @@
-![Profile](https://readme-typing-svg.herokuapp.com?font=Fira+Code+Retina&size=16&color=0969da&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there%2C+nice+to+meet+you!;I'm+interested+in+Typescript%2C+React%2C+Zustand+and+Stitches.;Let's+make+the+world+a+better+place!)
+![profile light mode](https://user-images.githubusercontent.com/10386119/159616108-7c105c9c-5a9a-45a3-8fb5-fcebcad4d50e.svg#gh-light-mode-only)
+![profile dark mode](https://user-images.githubusercontent.com/10386119/159616105-0ea7d878-5b93-4de0-ad2b-a7000ce75fa0.svg#gh-dark-mode-only)
+
