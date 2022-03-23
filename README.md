@@ -1,1 +1,1 @@
-![Profile](https://readme-typing-svg.herokuapp.com?font=Fira+Code+Retina&size=16&color=58A6FF&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there%2C+nice+to+meet+you!;I'm+interested+in+Typescript%2C+React%2C+Zustand+and+Stitches.;Let's+make+the+world+a+better+place!)
+![Profile](https://readme-typing-svg.herokuapp.com?font=Fira+Code+Retina&size=16&color=0969da&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there%2C+nice+to+meet+you!;I'm+interested+in+Typescript%2C+React%2C+Zustand+and+Stitches.;Let's+make+the+world+a+better+place!)
