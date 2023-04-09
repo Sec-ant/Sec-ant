@@ -1,5 +1,8 @@
 # Hi there! 👋
 
+### [@sec-ant/barcode-detector](https://github.com/Sec-ant/barcode-detector)
+A Barcode Detection API polyfill that uses ZXing webassembly internally.
+
 ### [@sec-ant/zxing-wasm](https://github.com/Sec-ant/zxing-wasm)
 An ES6 module wrapper of zxing-wasm-build. Read and write barcodes in your browser.
 
