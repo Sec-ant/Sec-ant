@@ -10,4 +10,4 @@ An ES6 module wrapper of zxing-wasm-build. Read and write barcodes in your brows
 A Simple Yet Spec-Compliant Asynchronous Iteration Polyfill for [`ReadableStream`](https://developer.mozilla.org/docs/Web/API/ReadableStream)s from [Web Streams API](https://developer.mozilla.org/docs/Web/API/Streams_API).
 
 ### [weread-scraper](https://github.com/Sec-ant/weread-scraper)
-A userscript to export Weread books to html files.
+A userscript to scrape WeRead books and save them as HTML files.
