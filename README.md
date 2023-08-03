@@ -3,11 +3,17 @@
 I'm Ze-Zheng Wu and you're browsing my GitHub page.
 
 ## Stats
+
 <a href="https://github.com/Sec-ant">
   <img src="https://github-readme-stats.vercel.app/api?username=Sec-ant&count_private=true&show_icons=true&title_color=626DF7&icon_color=583EBB&bg_color=BDD353,FED152,FBFC27" width="50%" />
 </a>
 
+<a href="https://github.com/Sec-ant">
+  <img src="https://metrics.lecoq.io/Sec-ant?template=classic&base.indepth=true&isocalendar=1&lines=1&habits=1&followup=1&people=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FShanghai" width="50%" />
+</a>
+
 ## Repos
+
 <a href="https://github.com/Sec-ant/weread-scraper">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=weread-scraper&show_owner=true" width="32%" />
 </a>
@@ -37,6 +43,7 @@ I'm Ze-Zheng Wu and you're browsing my GitHub page.
 </a>
 
 ## Contribution Chart
+
 <a href="https://github.com/Sec-ant">
   <img src="https://contribution.catsjuice.com/_/Sec-ant?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan&colors=583EBB,626DF7,469EF9,22C2E0,51D5AC,BDD353,FED152,FBFC27" width="50%" />
 </a>
