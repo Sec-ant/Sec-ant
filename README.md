@@ -5,41 +5,37 @@ I'm Ze-Zheng Wu and you're browsing my GitHub page.
 ## Stats
 
 <a href="https://github.com/Sec-ant">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sec-ant&count_private=true&show_icons=true&title_color=626DF7&icon_color=583EBB&bg_color=BDD353,FED152,FBFC27" width="50%" />
-</a>
-
-<a href="https://github.com/Sec-ant">
-  <img src="https://metrics.lecoq.io/Sec-ant?template=classic&base.indepth=true&isocalendar=1&lines=1&habits=1&followup=1&people=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FShanghai" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sec-ant&count_private=true&show_icons=true&title_color=626DF7&icon_color=583EBB&bg_color=BDD353,FED152,FBFC27" width="70%" />
 </a>
 
 ## Repos
 
 <a href="https://github.com/Sec-ant/weread-scraper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=weread-scraper&show_owner=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=weread-scraper&show_owner=true" width="48%" />
 </a>
 
 <a href="https://github.com/Sec-ant/anti-anti-debugging-debugger-firefox">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=anti-anti-debugging-debugger-firefox&show_owner=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=anti-anti-debugging-debugger-firefox&show_owner=true" width="48%" />
 </a>
 
 <a href="https://github.com/Sec-ant/gm-fetch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=gm-fetch&show_owner=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=gm-fetch&show_owner=true" width="48%" />
 </a>
 
 <a href="https://github.com/Sec-ant/barcode-detector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=barcode-detector&show_owner=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=barcode-detector&show_owner=true" width="48%" />
 </a>
 
 <a href="https://github.com/Sec-ant/zxing-wasm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=zxing-wasm&show_owner=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=zxing-wasm&show_owner=true" width="48%" />
 </a>
 
 <a href="https://github.com/Sec-ant/zxing-wasm-build">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=zxing-wasm-build&show_owner=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=zxing-wasm-build&show_owner=true" width="48%" />
 </a>
 
 <a href="https://github.com/Sec-ant/minify-html-wasm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=minify-html-wasm&show_owner=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=minify-html-wasm&show_owner=true" width="48%" />
 </a>
 
 ## Contribution Chart
