@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Ze-Zheng Wu. My code says my words.
+I'm Ze-Zheng Wu. My code speaks for me.
 
 ## Stats
 
