@@ -1,11 +1,11 @@
 # Hi there! 👋
 
-I'm Ze-Zheng Wu and you're browsing my GitHub page.
+I'm Ze-Zheng Wu. My code says my words.
 
 ## Stats
 
 <a href="https://github.com/Sec-ant">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sec-ant&count_private=true&show_icons=true&title_color=626DF7&icon_color=583EBB&bg_color=BDD353,FED152,FBFC27" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sec-ant&count_private=true&show_icons=true" width="70%" />
 </a>
 
 ## Repos
