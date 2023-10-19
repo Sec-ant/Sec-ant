@@ -10,10 +10,6 @@ I'm Ze-Zheng Wu. My code speaks for me.
 
 ## Repos
 
-<a href="https://github.com/Sec-ant/weread-scraper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=weread-scraper&show_owner=true" width="48%" />
-</a>
-
 <a href="https://github.com/Sec-ant/a2d2-firefox">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sec-ant&repo=a2d2-firefox&show_owner=true" width="48%" />
 </a>
