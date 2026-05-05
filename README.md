@@ -14,10 +14,10 @@
 
 <br>
 
-[![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Sec-ant&count_private=true&show_icons=true&bg_color=ffffff00&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/Sec-ant#gh-light-mode-only)
-[![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Sec-ant&count_private=true&show_icons=true&bg_color=ffffff00&hide_border=true&theme=onedark#gh-dark-mode-only)](https://github.com/Sec-ant#gh-dark-mode-only)
+[![github-readme-stats](./assets/stats-light.svg#gh-light-mode-only)](https://github.com/Sec-ant#gh-light-mode-only)
+[![github-readme-stats](./assets/stats-dark.svg#gh-dark-mode-only)](https://github.com/Sec-ant#gh-dark-mode-only)
 
-[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Sec-ant&row=2&column=4&margin-w=8&margin-h=54&no-bg=true&no-frame=true&theme=flat#gh-light-mode-only)](https://github.com/Sec-ant#gh-light-mode-only)
-[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Sec-ant&row=2&column=4&margin-w=8&margin-h=54&no-bg=true&no-frame=true&theme=onedark#gh-dark-mode-only)](https://github.com/Sec-ant#gh-dark-mode-only)
+[![github-profile-trophy](./assets/trophy-light.svg#gh-light-mode-only)](https://github.com/Sec-ant#gh-light-mode-only)
+[![github-profile-trophy](./assets/trophy-dark.svg#gh-dark-mode-only)](https://github.com/Sec-ant#gh-dark-mode-only)
 
 </div>
