@@ -19,7 +19,7 @@ jobs:
     env:
       USERNAME: Sec-ant
     steps:
-      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+      - uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5.0.1
 
       - name: Generate stats card (light)
         uses: readme-tools/github-readme-stats-action@d82657a0e215a28ec48bfc9b3987999a279f93be # v1.2.0
