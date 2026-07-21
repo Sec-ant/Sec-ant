@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ze-Zheng Wu's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 798, Total Commits  (last year) : 310, Total PRs: 490, Total Issues: 85, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 800, Total Commits  (last year) : 310, Total PRs: 490, Total Issues: 85, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 36.39032776590248;
+        stroke-dashoffset: 36.37870515157176;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >798</text>
+      >800</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
